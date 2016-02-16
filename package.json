@@ -1,0 +1,16 @@
+{
+  "name": "shehu-taila-api-v2",
+  "version": "2.0.0",
+  "description": "shehu taila new api ",
+  "main": "launch.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "ipalibo whyte",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^0.8.5",
+    "node-crux": "^0.4.10",
+    "node-uuid": "^1.4.3"
+  }
+}
