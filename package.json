@@ -10,8 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^0.8.5",
-    "node-crux": "^0.4.10",
+    "node-crux": "latest",
     "node-uuid": "^1.4.3",
+    "body-parser": "1.13.x",
     "express": "3.21.2",
     "sequelize": "2.x",
     "moment": "^2.10.2",
