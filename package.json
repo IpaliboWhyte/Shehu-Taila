@@ -12,6 +12,10 @@
     "bcrypt": "^0.8.5",
     "node-crux": "^0.4.10",
     "node-uuid": "^1.4.3",
-    "express": "3.21.2"
+    "express": "3.21.2",
+    "sequelize": "2.x",
+    "moment": "^2.10.2",
+    "log4js": "0.6.x",
+    "request": "^2.64.0"
   }
 }
