@@ -9,7 +9,7 @@ crux.globalize();
 
 app
   .name('api')
-  .components(['log', 'sql', 'server', 'service', 'mongo'], true)
+  .components(['log', 'sql', 'server', 'service'], true)
   .extends("app/extends")
   .projectConfig("config/_project.js")
   .envConfig("config/env", "js");
