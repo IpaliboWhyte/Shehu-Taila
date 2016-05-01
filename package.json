@@ -16,6 +16,8 @@
     "sequelize": "2.x",
     "moment": "^2.10.2",
     "log4js": "0.6.x",
-    "request": "^2.64.0"
+    "request": "^2.64.0",
+    "mysql": "2.8.x",
+    "async": "1.4.x"
   }
 }
